@@ -9,6 +9,8 @@ Frontend:
     - Vite (React)
 
     - Redux
+
+    - Lucide React, Tailwind (HTML/CSS)
     
 🌐 Live Deployment
 
