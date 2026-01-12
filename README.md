@@ -15,4 +15,4 @@ Frontend:
 
 The application is deployed at: 
 
-    - youtube-clone-sable-chi.vercel.app
+    youtube-clone-sable-chi.vercel.app
